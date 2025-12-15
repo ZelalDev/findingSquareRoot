@@ -57,3 +57,7 @@ Zelal Aydın
 Date: 11.12.2025
 
 Language: Swift
+
+
+##  
+"This repository serves as a journal of my Swift and SwiftUI learning journey. It documents my step-by-step progress and growth as part of the '100 Days of SwiftUI' challenge."
